@@ -7,6 +7,9 @@ This repository includes functions for exploring 1d jellium model in equilibrium
     By running Basic_jellium_exploration.py, we find the average equilibrium density of the 1d jellium model with N particles. The result is obtained by using Metropolis Monte Carlo simulation.
     The plot of the density is saved as Figures/density.png.
     The plot of the system's energy as a function of algorithm steps is saved as Figures/Energy_to_equilibrium.png.
+* Typical distribution of index
+* Typical distribution of Gap (middle & edge)
+* Time evolution of jellium model without quadratic potential
 
 ### Dependencies
 Required packages are specified in Requirements.txt

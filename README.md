@@ -14,6 +14,9 @@ This repository includes functions for exploring 1d jellium model in equilibrium
 
 ### Dependencies
 Required packages are specified in Requirements.txt
+For running julia script you need to install packages: Distributions, Random, StatsBase, NPZ by running:
+using Pkg
+Pkg.add("Package Name")
 
 ### Executing program
 
